@@ -1,0 +1,25 @@
+prince@G15 
+---------- 
+OS-> Smriti 1.0.0-Stable x86_64 
+Host-> Dell G15 5530 
+Kernel-> Linux 6.8.0-101-generic 
+Uptime-> 3 hours, 52 mins 
+Packages-> 3856 (dpkg), 45 (flatpak), 24 (snap) 
+Shell-> /bin/bash 5.1.16 
+Resolution-> 1920x1080 @ 120.00Hz 
+DE-> Enlightenment 
+WM-> Moksha 
+WM Theme-> MokshaArcGreen4 
+Theme-> MokshaArcGreen-GTK [GTK2/3] 
+Icons-> MokshaArcGreen-Icons [GTK2/3] 
+Terminal-> vscode 
+CPU-> 13th Gen Intel i5-13450HX (16) @ 4.6GHz [86.0°C] 
+CPU Usage-> 18% [37m[▓░░░░░░░░░[37m] 
+GPU-> NVIDIA 01:00.0 NVIDIA Corporation Device 25ec 
+GPU-> Intel Device a78b 
+GPU Driver-> i915 
+Memory-> 10.90GiB / 15.31GiB (71%) 
+Disk (/)-> 281G / 444G (67%) [37m[▓▓▓▓▓▓░░░░[37m] 
+Battery0-> 100% [Not charging] [37m[▓▓▓▓▓▓▓▓▓▓[37m] 
+Font-> Sans 10 [GTK2/3] 
+

@@ -1,0 +1,5 @@
+Answer three questions to generate your manifesto.
+
+Manifesto saved to manifesto_prince.txt
+On 30 March 2026, I wield vlc to practice open acess by building nothing and sharing it with everyone.
+On 30 March 2026, I use vlc with open acess to build tgoa.

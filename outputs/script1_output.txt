@@ -1,0 +1,9 @@
+================================
+ Open Source Audit — Prince Raj
+================================
+Kernel : 6.8.0-101-generic
+User : prince
+Uptime : up 3 hours, 52 minutes
+Distro : Ubuntu 22.04 LTS
+Date : 2026-03-30
+License : Linux Kernel is released under the GNU General Public License v2.

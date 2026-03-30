@@ -1,0 +1,8 @@
+Directory Audit Report
+----------------------
+/etc => Permissions: drwxr-xr-x root root | Size: 19M
+/var/log => Permissions: drwxrwxr-x root syslog | Size: 3.1G
+/home => Permissions: drwxr-xr-x root root | Size: 192G
+/usr/bin => Permissions: drwxr-xr-x root root | Size: 2.0G
+/tmp => Permissions: drwxrwxrwt root root | Size: 6.1M
+Config directory /home/prince/.config/testconf => Permissions: drwxrwxr-x prince prince

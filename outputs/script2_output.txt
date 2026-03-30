@@ -1,0 +1,5 @@
+vlc is installed.
+Version: 3.0.16-1build7
+License: GPL-2+
+Summary: multimedia player and streamer
+VLC: the open source multimedia player
